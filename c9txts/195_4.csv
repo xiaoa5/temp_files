@@ -1,0 +1,10 @@
+x,y,label
+35,104,key
+35,92,key
+93,92,key
+221,104,nonkey
+221,92,nonkey
+243,92,nonkey
+243,104,nonkey
+267,92,nonkey
+267,104,nonkey
